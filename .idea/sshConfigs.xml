@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="nelo.eu" id="02ab9425-951d-42e6-b46e-a5a75b737aff" port="22" nameFormat="DESCRIPTIVE" username="nelopt" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1e21f09c-38bd-4883-b64c-36ae8a406c6e" name="nelohost.com" url="http://old.nelo.eu">
+        <fileTransfer rootFolder="/home/nelopt/public_html/" accessType="SFTP" host="nelo.eu" port="22" sshConfigId="02ab9425-951d-42e6-b46e-a5a75b737aff" sshConfig="nelopt@nelo.eu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
